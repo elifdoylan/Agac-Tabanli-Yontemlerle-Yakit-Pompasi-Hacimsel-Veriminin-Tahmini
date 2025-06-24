@@ -4,7 +4,6 @@
 **Öğrenci Numarası:** 20360859003  
 **Proje Konusu:** Regresyon Analizi için Kapsamlı Makine Öğrenmesi Pipeline'ı
 
----
 
 ## Proje Özeti
 
