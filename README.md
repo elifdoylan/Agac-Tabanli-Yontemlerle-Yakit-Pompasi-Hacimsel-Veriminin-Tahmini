@@ -2,13 +2,12 @@
 
 
 **Öğrenci:** Elif Doylan  
-**Öğrenci Numarası:** 20360859003  
-**Proje Konusu:** Regresyon Analizi için Kapsamlı Makine Öğrenmesi Pipeline'ı
+
 
 
 ## Proje Özeti
 
-Bu bitirme projesi, endüstriyel veri setleri üzerinde kapsamlı makine öğrenmesi analizi yapmak için geliştirilmiştir. Proje, veri ön işleme, çoklu model eğitimi, performans değerlendirme ve sonuç raporlama süreçlerini otomatikleştirir.
+Bu bitirme projesi, endüstriyel veri setleri üzerinde kapsamlı makine öğrenmesi analizi yapmak için geliştirilmiştir. Proje, veri ön işleme, çoklu model eğitimi, performans değerlendirme süreçlerini otomatikleştirir.
 
 ## Proje Hedefleri
 
